@@ -35,3 +35,7 @@ fotbot/fotbot-fuzz
 fotbot/fotbot-asan 
 fotbot/fotbot.gcno
 fotbot/fotbot.gcda
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
